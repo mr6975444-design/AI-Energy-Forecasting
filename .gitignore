@@ -7,3 +7,4 @@ __pycache__/
 
 # Large downloaded source dataset
 data/household_power_consumption.txt
+models/energy_forecast_model.joblib

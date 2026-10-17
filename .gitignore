@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Large downloaded source dataset
+data/household_power_consumption.txt

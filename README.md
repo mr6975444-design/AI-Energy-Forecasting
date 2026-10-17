@@ -1,5 +1,13 @@
 # AI-Powered Energy Consumption Forecasting System
 
+## 🚀 Live Demo
+
+**Try the AI-Powered Energy Forecasting Dashboard here:**
+
+[Open Live Dashboard](https://ai-energy-forecasting-yn385rbpndmsjyfee7xsgp.streamlit.app/)
+
+Explore historical electricity demand, model evaluation metrics, actual-versus-predicted values, and the next 24-hour power forecast.
+
 An AI-based machine learning project that forecasts hourly household electricity power demand using historical electricity consumption data.
 
 The project uses the **UCI Individual Household Electric Power Consumption Dataset**, performs time-series feature engineering, trains a Random Forest regression model, evaluates its performance against a simple previous-day baseline, and generates a forecast for the next 24 hours.
